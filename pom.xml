@@ -7,7 +7,7 @@
     <packaging>pom</packaging>
     <name>gameoflife</name>   
                
-    <url>https://github.com/wakaleo/game-of-life</url>
+    <url>https://github.com/java1337/game-of-life</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
